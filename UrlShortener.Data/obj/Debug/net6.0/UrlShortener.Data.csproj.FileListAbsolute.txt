@@ -1,0 +1,12 @@
+E:\Project\UrlShortener\UrlShortener.Data\bin\Debug\net6.0\UrlShortener.Data.deps.json
+E:\Project\UrlShortener\UrlShortener.Data\bin\Debug\net6.0\UrlShortener.Data.dll
+E:\Project\UrlShortener\UrlShortener.Data\bin\Debug\net6.0\UrlShortener.Data.pdb
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.csproj.AssemblyReference.cache
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.AssemblyInfoInputs.cache
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.AssemblyInfo.cs
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.csproj.CoreCompileInputs.cache
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.dll
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\refint\UrlShortener.Data.dll
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\UrlShortener.Data.pdb
+E:\Project\UrlShortener\UrlShortener.Data\obj\Debug\net6.0\ref\UrlShortener.Data.dll

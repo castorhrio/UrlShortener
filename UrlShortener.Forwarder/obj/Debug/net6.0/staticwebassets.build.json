@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0EbC4snyvdIKoEFKWKDysEAAfWh5y7ffO7uCWjyLVQ8=",
+  "Source": "UrlShortener.Forwarder",
+  "BasePath": "_content/UrlShortener.Forwarder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

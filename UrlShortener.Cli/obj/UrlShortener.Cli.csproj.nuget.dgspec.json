@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\UrlShortener\\UrlShortener.Cli\\UrlShortener.Cli.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\UrlShortener\\UrlShortener.Cli\\UrlShortener.Cli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\UrlShortener\\UrlShortener.Cli\\UrlShortener.Cli.csproj",
+        "projectName": "UrlShortener.Cli",
+        "projectPath": "E:\\Project\\UrlShortener\\UrlShortener.Cli\\UrlShortener.Cli.csproj",
+        "packagesPath": "C:\\Users\\Gin\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\UrlShortener\\UrlShortener.Cli\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "d:\\Microsoft Visual Studio\\SharedSDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Project\\UrlShortener\\UrlShortener.Data\\UrlShortener.Data.csproj": {
+                "projectPath": "E:\\Project\\UrlShortener\\UrlShortener.Data\\UrlShortener.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.66, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\UrlShortener\\UrlShortener.Data\\UrlShortener.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\UrlShortener\\UrlShortener.Data\\UrlShortener.Data.csproj",
+        "projectName": "UrlShortener.Data",
+        "projectPath": "E:\\Project\\UrlShortener\\UrlShortener.Data\\UrlShortener.Data.csproj",
+        "packagesPath": "C:\\Users\\Gin\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\UrlShortener\\UrlShortener.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "d:\\Microsoft Visual Studio\\SharedSDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.66, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
